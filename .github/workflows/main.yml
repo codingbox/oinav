@@ -29,3 +29,4 @@ jobs:
           external_repository: oibox/oibox.github.io
           publish_branch: main
           publish_dir: ./public
+
