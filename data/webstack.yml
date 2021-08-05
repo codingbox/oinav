@@ -6,23 +6,23 @@
     - title: 洛谷
       logo: https://cdn.jsdelivr.net/gh/oibox/oinav@latest/logo/luogu-icon.png
       url: https://www.luogu.com.cn/
-      description: 洛谷致力于为信息学竞赛选手提供清爽、快捷的编程体验
+      description: 致力为信息学选手提供清爽、快捷的编程体验
     - title: LibreOJ
       logo: https://cdn.jsdelivr.net/gh/oibox/oinav@latest/logo/libreoj-icon.png
       url: https://loj.ac/
-      description: 高质量的信息学竞赛题库，由开源项目 SYZOJ 支持
+      description: 高质量的信息学竞赛题库
     - title: Universal OJ
       logo: https://cdn.jsdelivr.net/gh/oibox/oinav@latest/logo/uoj-icon.png
       url: https://uoj.ac/
-      description: 高质量的信息学竞赛题库，由开源项目 UOJ 支持
+      description: 高质量的信息学竞赛题库
     - title: Codeforces
       logo: https://cdn.jsdelivr.net/gh/oibox/oinav@latest/logo/codeforces-icon.png
       url: https://www.codeforces.ml/
-      description: 全球最著名的在线评测系统之一，定期举办高质量比赛
+      description: 全球最著名的在线评测系统之一
     - title: Virtual Judge
       logo: https://cdn.jsdelivr.net/gh/oibox/oinav@latest/logo/vjudge-icon.png
       url: https://www.vjudge.net/
-      description: 信息学题库聚合系统，提供一站式做题体验
+      description: 信息学题库聚合，一站式做题体验
     - title: LeetCode 力扣
       logo: https://cdn.jsdelivr.net/gh/oibox/oinav@latest/logo/leetcode-icon.png
       url: https://leetcode-cn.com/
