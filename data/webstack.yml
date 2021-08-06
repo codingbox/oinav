@@ -27,3 +27,31 @@
       logo: https://cdn.jsdelivr.net/gh/oibox/oinav@latest/logo/leetcode-icon.png
       url: https://leetcode-cn.com/
       description: 全球极客挚爱的技术成长平台
+    - title: 牛客网
+      logo: https://cdn.jsdelivr.net/gh/oibox/oinav@latest/logo/nowcoder-icon.png
+      url: https://www.nowcoder.com/
+      description: 国内题库，定期举办模考
+    - title: 杭电OJ
+      logo: https://cdn.jsdelivr.net/gh/oibox/oinav@latest/logo/hdu-icon.png
+      url: http://acm.hdu.edu.cn/
+      description: 杭州电子科技大学在线评测系统
+    - title: Vijos
+      logo: https://cdn.jsdelivr.net/gh/oibox/oinav@latest/logo/vijos-icon.png
+      url: https://vijos.org/
+      description: 始于 2005 年，提供子域功能
+    - title: SPOJ
+      logo: https://cdn.jsdelivr.net/gh/oibox/oinav@latest/logo/spoj-icon.png
+      url: https://www.spoj.com/
+      description: 波兰 OJ，题目质量较高
+    - title: AtCoder
+      logo: https://cdn.jsdelivr.net/gh/oibox/oinav@latest/logo/atcoder-icon.png
+      url: https://atcoder.jp/
+      description: 日本 OJ，题目有趣，质量较高
+    - title: ZJU OJ
+      logo: https://cdn.jsdelivr.net/gh/oibox/oinav@latest/logo/zju-icon.png
+      url: https://zoj.pintia.cn/
+      description: 浙江大学 OJ，始于 2001 年
+    - title: POJ
+      logo: https://cdn.jsdelivr.net/gh/oibox/oinav@latest/logo/poj-icon.png
+      url: http://poj.org
+      description: 北京大学 OJ，题目经典，质量较高
